@@ -1,0 +1,10 @@
+body {
+    background-color: #774982;
+    /* background-color: #899197; */
+}
+
+@media (max-width: 575.98px) { 
+    .card {
+        margin-top: 16px;
+    }
+ }
