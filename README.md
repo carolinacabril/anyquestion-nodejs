@@ -9,7 +9,7 @@ Realizei esse projeto para nível de estudo, se trata de uma plataforma de pergu
 ##### EJS
 ##### Bootstrap 4
 
-Para utilizar o projeto basta clonar o repóstorio, criar o banco de dados e no diretótio database no arquivo database.js configurar as informações do banco de dados.
+Para utilizar o projeto basta clonar o repóstorio, criar o banco de dados e no diretório database no arquivo database.js configurar as informações do banco de dados.
 
 ## Substituir no arquivo database.js
 ##### dbNome = nome do banco de dados.
