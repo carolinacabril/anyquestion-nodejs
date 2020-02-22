@@ -8,3 +8,10 @@ Realizei esse projeto para nivel de estudo, se trata de uma plataforma de pergun
 ##### Sequelize
 ##### EJS
 ##### Bootstrap 4
+
+Para utilizar o projeto basta clonar o repóstorio, criar o banco de dados e no diretótio database no arquivo database.js configurar as informações do banco de dados.
+
+## substituir 
+##### dbNome = nome do banco de dados.
+##### user = seu usuário para acessar o banco de dados.
+##### password = sua senha para acessar o banco de dados.
